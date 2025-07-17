@@ -7,4 +7,4 @@ public class MyFirstApp {
 	}
 }
 asshcsos
-sjis
+1111
