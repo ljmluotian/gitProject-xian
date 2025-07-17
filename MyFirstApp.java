@@ -6,5 +6,5 @@ public class MyFirstApp {
 		System.out.println("this java file should use in task1");
 	}
 }
-
+asshcsos
 sjis
